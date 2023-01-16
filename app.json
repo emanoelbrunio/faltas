@@ -28,6 +28,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "6910758f-db2f-48b9-9e7c-25ba0b0a5f82"
+      }
+    },
+    "owner": "brunio700"
   }
 }
